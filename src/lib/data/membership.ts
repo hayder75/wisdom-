@@ -1,0 +1,65 @@
+export const membershipIntro = {
+  label: "04 / MEMBERSHIP",
+  heading: "More than a customer.\nYou're a member.",
+  statement:
+    "A SACCO is owned by its members. When you join Wisdom, you're not buying a service — you're joining a cooperative, contributing to its strength and sharing in its purpose.",
+};
+
+export const membershipJourney = [
+  {
+    number: "01",
+    title: "Check eligibility",
+    text: "Confirm you meet Wisdom's official membership criteria. Contact Wisdom for the current requirements.",
+  },
+  {
+    number: "02",
+    title: "Register",
+    text: "Complete Wisdom's official registration process with the required information and documents.",
+  },
+  {
+    number: "03",
+    title: "Open & contribute",
+    text: "Open your membership and make your first contribution according to Wisdom's structure.",
+  },
+  {
+    number: "04",
+    title: "Become a member",
+    text: "On confirmation, you become a full Wisdom member — a participant in the cooperative.",
+  },
+  {
+    number: "05",
+    title: "Access services",
+    text: "Begin saving, accessing credit and using the services Wisdom provides to its members.",
+  },
+];
+
+export const membershipBenefits = [
+  {
+    title: "Save",
+    text: "Build your own savings balance within a cooperative built around its members.",
+  },
+  {
+    title: "Access credit",
+    text: "Access credit under Wisdom's policies, assessed fairly and transparently.",
+  },
+  {
+    title: "Participate",
+    text: "Take part in the cooperative as a member — not as a customer.",
+  },
+  {
+    title: "Grow together",
+    text: "Grow your financial position while strengthening the community of members.",
+  },
+];
+
+export const memberRights = [
+  "Participate in the cooperative according to Wisdom's bylaws and structure",
+  "Access the services Wisdom provides to its members",
+  "Receive transparent information about the cooperative's affairs",
+];
+
+export const memberResponsibilities = [
+  "Contribute according to Wisdom's membership and savings rules",
+  "Meet obligations under Wisdom's policies and agreements",
+  "Act in line with the cooperative's values and governing rules",
+];

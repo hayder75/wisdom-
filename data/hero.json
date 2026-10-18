@@ -1,0 +1,22 @@
+{
+  "label": "wisdom saccos",
+  "motto": "Build your future together.",
+  "serviceMotto": "We drive for\nexcellent service.",
+  "supportingText": "Helping members Save, access credit and build stronger financial futures through cooperative finance.",
+  "primaryCtaLabel": "Become a Member",
+  "primaryCtaHref": "/membership",
+  "secondaryCtaLabel": "Explore Services",
+  "secondaryCtaHref": "/savings",
+  "slides": [
+    {
+      "image": "/saving.webp",
+      "title": "Member Savings",
+      "caption": "Small habits. Stronger futures."
+    },
+    {
+      "image": "/photo_2026-08-12_23-18-05.jpg",
+      "title": "Cooperative Finance",
+      "caption": "Owned by the community it serves."
+    }
+  ]
+}

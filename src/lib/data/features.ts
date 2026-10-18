@@ -1,0 +1,50 @@
+export const whyWisdom = [
+  {
+    title: "MEMBER OWNERSHIP",
+    text: "Wisdom is a cooperative. Members are the reason it exists and the people it serves.",
+  },
+  {
+    title: "COMMUNITY",
+    text: "Members grow together. The strength of the cooperative comes from its community.",
+  },
+  {
+    title: "ACCESSIBILITY",
+    text: "Cooperative finance exists to be within reach of ordinary members and their goals.",
+  },
+  {
+    title: "TRANSPARENCY",
+    text: "Wisdom operates under its governance and reporting structures, and keeps members informed.",
+  },
+  {
+    title: "FINANCIAL EMPOWERMENT",
+    text: "Through saving, credit and education, members build financial strength that lasts.",
+  },
+];
+
+export const growthJourney = [
+  {
+    key: "SAVE",
+    title: "Save",
+    text: "Members build savings within the cooperative, one contribution at a time.",
+  },
+  {
+    key: "BUILD",
+    title: "Build",
+    text: "Personal balances grow and the cooperative's shared strength builds with them.",
+  },
+  {
+    key: "ACCESS",
+    title: "Access",
+    text: "Members access credit under Wisdom's policies when they have a plan.",
+  },
+  {
+    key: "GROW",
+    title: "Grow",
+    text: "Repaid credit and consistent saving create durable financial growth.",
+  },
+  {
+    key: "PROSPER",
+    title: "Prosper",
+    text: "Members and their community become stronger together over time.",
+  },
+];

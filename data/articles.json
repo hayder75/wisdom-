@@ -1,0 +1,111 @@
+{
+  "news": [
+    {
+      "slug": "wisdom-announcements",
+      "category": "Announcement",
+      "title": "Wisdom's latest updates",
+      "short": "Official announcements from Wisdom will be published here.",
+      "image": "https://images.pexels.com/photos/5900188/pexels-photo-5900188.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "date": "Publishing soon",
+      "published": false,
+      "body": [
+        "Wisdom will publish its official announcements here — updates for members, notices and cooperative news.",
+        "Until then, contact Wisdom directly for the latest information."
+      ]
+    },
+    {
+      "slug": "member-stories",
+      "category": "Member Stories",
+      "title": "Member stories",
+      "short": "Real stories from Wisdom members will be featured here.",
+      "image": "https://images.pexels.com/photos/6964346/pexels-photo-6964346.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "date": "Publishing soon",
+      "published": false,
+      "body": [
+        "Wisdom will share the stories of its members here — real people, real progress.",
+        "Until then, contact Wisdom directly for the latest information."
+      ]
+    },
+    {
+      "slug": "community-initiatives",
+      "category": "Community",
+      "title": "Community initiatives",
+      "short": "Wisdom's community work will be shared here.",
+      "image": "https://images.pexels.com/photos/4968631/pexels-photo-4968631.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "date": "Publishing soon",
+      "published": false,
+      "body": [
+        "Wisdom will share its community initiatives here — cooperative activities and member engagement.",
+        "Until then, contact Wisdom directly for the latest information."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "slug": "saving",
+      "topic": "Saving",
+      "title": "Saving",
+      "short": "How a regular saving habit builds financial strength over time.",
+      "image": "https://images.pexels.com/photos/4386373/pexels-photo-4386373.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "This is a planned topic in Wisdom's financial education series. Content is being prepared with Wisdom's approved educational material.",
+        "Contact Wisdom to learn how its financial education programme supports members."
+      ]
+    },
+    {
+      "slug": "budgeting",
+      "topic": "Budgeting",
+      "title": "Budgeting",
+      "short": "A simple approach to planning income and spending.",
+      "image": "https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "This is a planned topic in Wisdom's financial education series. Content is being prepared with Wisdom's approved educational material.",
+        "Contact Wisdom to learn how its financial education programme supports members."
+      ]
+    },
+    {
+      "slug": "responsible-borrowing",
+      "topic": "Responsible borrowing",
+      "title": "Responsible borrowing",
+      "short": "Understanding credit, repayment and borrowing within your means.",
+      "image": "https://images.pexels.com/photos/5900179/pexels-photo-5900179.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "This is a planned topic in Wisdom's financial education series. Content is being prepared with Wisdom's approved educational material.",
+        "Contact Wisdom to learn how its financial education programme supports members."
+      ]
+    },
+    {
+      "slug": "loan-preparation",
+      "topic": "Loan preparation",
+      "title": "Preparing to access credit",
+      "short": "What it means to approach credit with a clear plan.",
+      "image": "https://images.pexels.com/photos/6694569/pexels-photo-6694569.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "This is a planned topic in Wisdom's financial education series. Content is being prepared with Wisdom's approved educational material.",
+        "Contact Wisdom to learn how its financial education programme supports members."
+      ]
+    },
+    {
+      "slug": "financial-planning",
+      "topic": "Financial planning",
+      "title": "Financial planning",
+      "short": "Thinking about your finances as a longer-term journey.",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "This is a planned topic in Wisdom's financial education series. Content is being prepared with Wisdom's approved educational material.",
+        "Contact Wisdom to learn how its financial education programme supports members."
+      ]
+    },
+    {
+      "slug": "emergency-funds",
+      "topic": "Emergency funds",
+      "title": "Emergency funds",
+      "short": "Why having a reserve matters, and how saving supports it.",
+      "image": "https://images.pexels.com/photos/4038853/pexels-photo-4038853.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "This is a planned topic in Wisdom's financial education series. Content is being prepared with Wisdom's approved educational material.",
+        "Contact Wisdom to learn how its financial education programme supports members."
+      ]
+    }
+  ]
+}

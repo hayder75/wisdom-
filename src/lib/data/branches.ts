@@ -1,0 +1,36 @@
+export interface Branch {
+  name: string;
+  image?: string;
+  region: string;
+  address: string;
+  phone: string;
+  hours: string;
+  mapUrl: string;
+}
+
+export const branches: Branch[] = [
+  {
+    name: "[BRANCH NAME ONE]",
+    region: "[REGION / CITY]",
+    address: "[OFFICIAL BRANCH ADDRESS]",
+    phone: "[OFFICIAL BRANCH PHONE]",
+    hours: "[OFFICIAL OFFICE HOURS]",
+    mapUrl: "https://maps.google.com",
+  },
+  {
+    name: "[BRANCH NAME TWO]",
+    region: "[REGION / CITY]",
+    address: "[OFFICIAL BRANCH ADDRESS]",
+    phone: "[OFFICIAL BRANCH PHONE]",
+    hours: "[OFFICIAL OFFICE HOURS]",
+    mapUrl: "https://maps.google.com",
+  },
+  {
+    name: "[BRANCH NAME THREE]",
+    region: "[REGION / CITY]",
+    address: "[OFFICIAL BRANCH ADDRESS]",
+    phone: "[OFFICIAL BRANCH PHONE]",
+    hours: "[OFFICIAL OFFICE HOURS]",
+    mapUrl: "https://maps.google.com",
+  },
+];

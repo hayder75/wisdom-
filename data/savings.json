@@ -1,0 +1,793 @@
+{
+  "intro": {
+    "label": "02 / SAVINGS",
+    "heading": "Small habits.\nStronger futures.",
+    "statement": "A SACCO works because members save together. Each member builds their own balance, and the cooperative grows on the strength of those combined savings."
+  },
+  "products": [
+    {
+      "slug": "fixed-time-saving",
+      "name": "Fixed Time Saving",
+      "short": "A Fixed Time Saving is a product where an individual deposits a lump sum of money for a predetermined, fixed period.",
+      "audience": "Open to Wisdom members",
+      "benefit": "A Fixed Time Saving is a product where an individual deposits a lump sum of money for a predetermined, fixed period.",
+      "description": "A Fixed Time Saving is a product where an individual deposits a lump sum of money for a predetermined, fixed period.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "interest-free-saving-gebeta-rizq",
+      "name": "Interest Free Saving",
+      "short": "An interest-free savings plan structured to support members' saving goals.",
+      "audience": "Open to Wisdom members",
+      "benefit": "An interest-free savings plan structured to support members' saving goals.",
+      "description": "An interest-free savings plan structured to support members' saving goals. Official structure and terms follow the cooperative's model.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "super-special-saving",
+      "name": "Super Special Saving",
+      "short": "A specially structured savings plan designed to reward consistent saving.",
+      "audience": "Open to Wisdom members",
+      "benefit": "A specially structured savings plan designed to reward consistent saving.",
+      "description": "A specially structured savings plan designed to reward consistent saving. Official features and terms follow the cooperative's model.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "ordinary-savings",
+      "name": "Ordinary Savings",
+      "short": "Flexible savings for your daily needs with competitive interest rates.",
+      "audience": "Open to Wisdom members",
+      "benefit": "Flexible savings for your daily needs with competitive interest rates.",
+      "description": "Flexible savings for your daily needs with competitive interest rates.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "special-education-savings",
+      "name": "Special Education Savings",
+      "short": "Save for your children's future education with higher interest.",
+      "audience": "Open to Wisdom members",
+      "benefit": "Save for your children's future education with higher interest.",
+      "description": "Save for your children's future education with higher interest.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "special-saving",
+      "name": "Special Saving",
+      "short": "A specialized savings plan designed to reward savers with superior annual returns, ideal for significant future goals.",
+      "audience": "Open to Wisdom members",
+      "benefit": "A specialized savings plan designed to reward savers with superior annual returns, ideal for significant future goals.",
+      "description": "This specialized savings plan is uniquely designed to reward savers with superior annual returns. It is the ideal choice for achieving significant future goals. Key features include: Tiered High-Interest Rates: Exceptional annual interest rates calculated based on the amount of your deposit. Voluntary Participation: A flexible, self-driven savings plan that allows for deposits anytime and from anywhere. Withdrawal Flexibility: Full access to withdraw funds at any hour after an initial two-month saving period. Goal-Oriented: Specifically tailored for large-scale plans and major future investments.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "drivers-saving",
+      "name": "Drivers Saving",
+      "short": "A savings plan that encourages a savings culture among drivers to purchase a new or additional vehicle.",
+      "audience": "Open to Wisdom members",
+      "benefit": "A savings plan that encourages a savings culture among drivers to purchase a new or additional vehicle.",
+      "description": "This is a savings plan designed to encourage a savings culture among drivers, which allows members to purchase a new or additional vehicle. It is a savings plan specially designed for drivers.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "save-as-you-can",
+      "name": "Save As You Can",
+      "short": "No limits, save what you afford anytime.",
+      "audience": "Open to Wisdom members",
+      "benefit": "No limits, save what you afford anytime.",
+      "description": "No limits, save what you afford anytime.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "mothers-saving",
+      "name": "Mothers Saving",
+      "short": "A savings plan designed to encourage and support mothers with flexible daily, weekly or monthly deposits.",
+      "audience": "Open to Wisdom members",
+      "benefit": "A savings plan designed to encourage and support mothers with flexible daily, weekly or monthly deposits.",
+      "description": "This savings plan is specifically designed to encourage and support mothers, offering the following features and benefits: Flexible Savings Options: A dynamic system that allows for daily, weekly, or monthly deposits starting from a minimum of 20 Birr. Versatile Service: Acts as a family guarantee that can be used for children's education, medical expenses, and various emergency situations. Mobility & Accessibility: Deposits can be made anytime and anywhere; furthermore, funds can be withdrawn at any time after the first month of saving.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "employees-saving",
+      "name": "Employees Saving",
+      "short": "Locked savings for corporate or salaried individuals, with payroll savings options.",
+      "audience": "Open to Wisdom members",
+      "benefit": "Locked savings for corporate or salaried individuals, with payroll savings options.",
+      "description": "This savings plan is designed for all types of employees, enabling them to save for social obligations or various other services. It features: Payroll Savings: The ability to save consistently from your monthly salary. Flexibility: Deposits can be made anytime and from any location. Accessibility: Funds can be withdrawn at any time after a minimum saving period of one month.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "disabled-persons-saving",
+      "name": "Disabled Persons Saving",
+      "short": "Special savings for persons with disabilities, designed to empower and improve livelihoods.",
+      "audience": "Open to Wisdom members",
+      "benefit": "Special savings for persons with disabilities, designed to empower and improve livelihoods.",
+      "description": "Special Savings for Persons with Disabilities. Designed to empower individuals and improve their livelihoods with higher returns, this account offers: Flexible Savings: Save as little as 20 Birr daily, weekly, or monthly. Easy Access: Deposit anytime and anywhere, with full withdrawal access after the first month.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "women-saving",
+      "name": "Women Saving",
+      "short": "A specialized savings account designed to empower women economically.",
+      "audience": "Open to Wisdom members",
+      "benefit": "A specialized savings account designed to empower women economically.",
+      "description": "This specialized savings account is designed to empower women economically, providing them with a platform to save for social or business purposes. Key features include: Flexibility: Deposit options starting from just 20 Birr on a daily, monthly, or yearly basis. Convenience: Easy deposits anytime, anywhere, with withdrawal access after the first month of saving. Business Support: Promotes financial independence and provides exclusive institutional business support for women.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "children-saving",
+      "name": "Children Saving",
+      "short": "An essential savings plan for parents to secure their children's education and future.",
+      "audience": "Open to Wisdom members",
+      "benefit": "An essential savings plan for parents to secure their children's education and future.",
+      "description": "This is an essential savings plan designed for parents to secure their children's education and future needs. Investing in their children's future offers parents both great emotional satisfaction and long-term financial security.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "regular-saving",
+      "name": "Regular Saving",
+      "short": "A mandatory savings scheme for fully registered members, with a minimum daily saving starting from 20 Birr.",
+      "audience": "Open to Wisdom members",
+      "benefit": "A mandatory savings scheme for fully registered members, with a minimum daily saving starting from 20 Birr.",
+      "description": "This is a mandatory savings scheme for fully registered members of the 'Gebeta' Credit and Saving institution. A minimum daily saving requirement starting from just 20 Birr, making it easy for everyone to build their financial future.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "loan-saving",
+      "name": "Loan Saving",
+      "short": "Access a loan by first saving a percentage of the desired amount, with low-interest rates.",
+      "audience": "Open to Wisdom members",
+      "benefit": "Access a loan by first saving a percentage of the desired amount, with low-interest rates.",
+      "description": "This is a type of savings where a fully registered member of the 'Gebeta' Saving and Credit institution can access a loan by first saving a specific percentage (10%, 20%, or 30%) of the desired loan amount. It features low-interest rates and is designed to encourage and support borrowers.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    },
+    {
+      "slug": "voluntary-saving",
+      "name": "Voluntary Saving",
+      "short": "A savings product based entirely on the member's voluntary saving, with flexible deposits.",
+      "audience": "Open to Wisdom members",
+      "benefit": "A savings product based entirely on the member's voluntary saving, with flexible deposits.",
+      "description": "This savings product differs from standard procedures as it is entirely based on the member's voluntary saving, allowing flexible deposits with no fixed requirements.",
+      "sections": [
+        {
+          "title": "Purpose",
+          "items": [
+            "Build a personal savings balance within the cooperative",
+            "Support the member-owned capital that the cooperative operates on"
+          ]
+        },
+        {
+          "title": "Eligibility",
+          "items": [
+            "Open to Wisdom members in good standing",
+            "Official criteria confirmed by Wisdom apply"
+          ]
+        },
+        {
+          "title": "How it works",
+          "items": [
+            "Open a savings account as a Wisdom member",
+            "Contribute according to Wisdom's savings arrangements",
+            "Track your balance through Wisdom's member services"
+          ]
+        },
+        {
+          "title": "Rates & dividends",
+          "items": [
+            "[OFFICIAL RATE / DIVIDEND INFORMATION]",
+            "Contact Wisdom for current terms."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I open this savings account?",
+          "answer": "Become a Wisdom member, then open your savings through Wisdom's official process. Contact Wisdom for the current steps and required documents."
+        },
+        {
+          "question": "What are the current savings terms?",
+          "answer": "Wisdom publishes official savings terms. Contact Wisdom for the most current information on minimums, frequency and access rules."
+        }
+      ]
+    }
+  ]
+}

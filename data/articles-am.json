@@ -1,0 +1,111 @@
+{
+  "news": [
+    {
+      "slug": "wisdom-announcements",
+      "category": "ማስታወቂያዎች",
+      "title": "የዊዝደም ወቅታዊ ማስታወቂያዎች",
+      "short": "የዊዝደም ኦፊሴላዊ መግለጫዎችና ማስታወቂያዎች እዚህ ይታተማሉ።",
+      "image": "https://images.pexels.com/photos/5900188/pexels-photo-5900188.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "date": "በቅርቡ",
+      "published": false,
+      "body": [
+        "ዊዝደም ኦፊሴላዊ ማስታወቂያዎቹን — የአባላት መረጃዎችን፣ ማሳሰቢያዎችንና የህብረቱን ዜናዎች እዚህ ያትማል።",
+        "እስከዚያው ድረስ ወቅታዊ መረጃዎችን ለማግኘት ዊዝደምን በቀጥታ ያግኙ።"
+      ]
+    },
+    {
+      "slug": "member-stories",
+      "category": "የአባላት ታሪኮች",
+      "title": "የአባላት የስኬት ታሪኮች",
+      "short": "ከዊዝደም አባላት የተውጣጡ እውነተኛ የስኬት ታሪኮች እዚህ ይቀርባሉ።",
+      "image": "https://images.pexels.com/photos/6964346/pexels-photo-6964346.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "date": "በቅርቡ",
+      "published": false,
+      "body": [
+        "ዊዝደም የአባላቱን ተጨባጭ የህይወትና የዕድገት ታሪኮች እዚህ ያጋራል።",
+        "እስከዚያው ድረስ ወቅታዊ መረጃዎችን ለማግኘት ዊዝደምን በቀጥታ ያግኙ።"
+      ]
+    },
+    {
+      "slug": "community-initiatives",
+      "category": "ማህበረሰብ",
+      "title": "የማህበረሰብ ተነሳሽነቶች",
+      "short": "የዊዝደም ማህበረሰባዊ ተግባራትና ተሳትፎዎች እዚህ ይጋራሉ።",
+      "image": "https://images.pexels.com/photos/4968631/pexels-photo-4968631.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "date": "በቅርቡ",
+      "published": false,
+      "body": [
+        "ዊዝደም የማህበረሰብ ተነሳሽነቶቹን — የህብረት ሥራ ተግባራትና የአባላት ተሳትፎዎችን እዚህ ያጋራል።",
+        "እስከዚያው ድረስ ወቅታዊ መረጃዎችን ለማግኘት ዊዝደምን በቀጥታ ያግኙ።"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "slug": "saving",
+      "topic": "ቁጠባ",
+      "title": "የቁጠባ ልማድ",
+      "short": "መደበኛ የቁጠባ ልማድ በጊዜ ሂደት አስተማማኝ የፋይናንስ አቅም እንዴት እንደሚገነባ።",
+      "image": "https://images.pexels.com/photos/4386373/pexels-photo-4386373.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "ይህ በዊዝደም የፋይናንስ ትምህርት መርሃ ግብር ውስጥ የተካተተ ርዕስ ነው። ይዘቱ በዊዝደም ከጸደቀው ትምህርታዊ ሰነድ ጋር እየተዘጋጀ ነው።",
+        "የፋይናንስ ትምህርት ፕሮግራሙ አባላትን እንዴት እንደሚደግፍ የበለጠ ለማወቅ ዊዝደምን ያግኙ።"
+      ]
+    },
+    {
+      "slug": "budgeting",
+      "topic": "በጀት",
+      "title": "የበጀት አወጣጥ",
+      "short": "ገቢና ወጪን ሚዛናዊ በሆነ መንገድ ለማቀድ የሚያግዝ ቀላል ዘዴ።",
+      "image": "https://images.pexels.com/photos/4386366/pexels-photo-4386366.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "ይህ በዊዝደም የፋይናንስ ትምህርት መርሃ ግብር ውስጥ የተካተተ ርዕስ ነው። ይዘቱ በዊዝደም ከጸደቀው ትምህርታዊ ሰነድ ጋር እየተዘጋጀ ነው።",
+        "የፋይናንስ ትምህርት ፕሮግራሙ አባላትን እንዴት እንደሚደግፍ የበለጠ ለማወቅ ዊዝደምን ያግኙ።"
+      ]
+    },
+    {
+      "slug": "responsible-borrowing",
+      "topic": "የብድር አጠቃቀም",
+      "title": "ኃላፊነት የተሞላበት የብድር አጠቃቀም",
+      "short": "ስለ ብድር አጠቃቀም፣ የመክፈል አቅምና ተገቢ ብድር ስለመውሰድ ግንዛቤ መፍጠር።",
+      "image": "https://images.pexels.com/photos/5900179/pexels-photo-5900179.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "ይህ በዊዝደም የፋይናንስ ትምህርት መርሃ ግብር ውስጥ የተካተተ ርዕስ ነው። ይዘቱ በዊዝደም ከጸደቀው ትምህርታዊ ሰነድ ጋር እየተዘጋጀ ነው።",
+        "የፋይናንስ ትምህርት ፕሮግራሙ አባላትን እንዴት እንደሚደግፍ የበለጠ ለማወቅ ዊዝደምን ያግኙ።"
+      ]
+    },
+    {
+      "slug": "loan-preparation",
+      "topic": "የብድር ዝግጅት",
+      "title": "ለብድር አመጋገብ ዝግጅት ማድረግ",
+      "short": "ብድርን በግልጽ እቅድና ዝግጅት መጠየቅ ምን ማለት እንደሆነ።",
+      "image": "https://images.pexels.com/photos/6694569/pexels-photo-6694569.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "ይህ በዊዝደም የፋይናንስ ትምህርት መርሃ ግብር ውስጥ የተካተተ ርዕስ ነው። ይዘቱ በዊዝደም ከጸደቀው ትምህርታዊ ሰነድ ጋር እየተዘጋጀ ነው።",
+        "የፋይናንስ ትምህርት ፕሮግራሙ አባላትን እንዴት እንደሚደግፍ የበለጠ ለማወቅ ዊዝደምን ያግኙ።"
+      ]
+    },
+    {
+      "slug": "financial-planning",
+      "topic": "የፋይናንስ እቅድ",
+      "title": "የረጅም ጊዜ የፋይናንስ እቅድ",
+      "short": "የግል ፋይናንስዎን እንደ ረጅም ጉዞ በማየት ስትራቴጂያዊ እቅድ ማውጣት።",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "ይህ በዊዝደም የፋይናንስ ትምህርት መርሃ ግብር ውስጥ የተካተተ ርዕስ ነው። ይዘቱ በዊዝደም ከጸደቀው ትምህርታዊ ሰነድ ጋር እየተዘጋጀ ነው።",
+        "የፋይናንስ ትምህርት ፕሮግራሙ አባላትን እንዴት እንደሚደግፍ የበለጠ ለማወቅ ዊዝደምን ያግኙ።"
+      ]
+    },
+    {
+      "slug": "emergency-funds",
+      "topic": "የአስቸኳይ ጊዜ መጠባበቂያ",
+      "title": "የአስቸኳይ ጊዜ መጠባበቂያ ገንዘብ",
+      "short": "ያልተጠበቁ ክስተቶችን ለመቋቋም የመጠባበቂያ ገንዘብ ለምን እንደሚያስፈልግና እንዴት እንደሚዘጋጅ።",
+      "image": "https://images.pexels.com/photos/4038853/pexels-photo-4038853.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "body": [
+        "ይህ በዊዝደም የፋይናንስ ትምህርት መርሃ ግብር ውስጥ የተካተተ ርዕስ ነው። ይዘቱ በዊዝደም ከጸደቀው ትምህርታዊ ሰነድ ጋር እየተዘጋጀ ነው።",
+        "የፋይናንስ ትምህርት ፕሮግራሙ አባላትን እንዴት እንደሚደግፍ የበለጠ ለማወቅ ዊዝደምን ያግኙ።"
+      ]
+    }
+  ]
+}

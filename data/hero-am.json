@@ -1,0 +1,22 @@
+{
+  "label": "ዊዝደም ቁጠባና ብድር",
+  "motto": "የወደፊትዎን\nአብረን\nእንገንባ።",
+  "serviceMotto": "ለበለጠ አገልግሎት\nእንጥራለን።",
+  "supportingText": "አባላት በቁጠባ፣ በብድርና በህብረት ፋይናንስ አማካኝነት አስተማማኝ የወደፊት የፋይናንስ ህይወት እንዲገነቡ እናግዛለን።",
+  "primaryCtaLabel": "አባል ይሁኑ",
+  "primaryCtaHref": "/membership",
+  "secondaryCtaLabel": "አገልግሎቶችን ይመልከቱ",
+  "secondaryCtaHref": "/savings",
+  "slides": [
+    {
+      "image": "/saving.webp",
+      "title": "የአባላት ቁጠባ",
+      "caption": "ትንንሽ ልማዶች። የበለጠ አስተማማኝ የወደፊት ህይወት።"
+    },
+    {
+      "image": "/photo_2026-08-12_23-18-05.jpg",
+      "title": "የህብረት ፋይናንስ",
+      "caption": "በማህበረሰቡ ባለቤትነት የሚተዳደር።"
+    }
+  ]
+}
